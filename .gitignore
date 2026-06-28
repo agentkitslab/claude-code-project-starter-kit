@@ -1,0 +1,21 @@
+# Local Claude/private files
+CLAUDE.local.md
+.mcp.json
+.claude/settings.local.json
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+id_rsa*
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
+
+# Logs/temp
+*.log
+tmp/
+.cache/

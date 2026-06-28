@@ -1,0 +1,14 @@
+# Local Claude Notes (Do Not Commit)
+
+Use this file for personal machine-specific notes.
+
+## Local environment
+
+- OS: `<macOS/Linux/Windows/WSL>`
+- Local paths: `<private paths>`
+- Preferred editor: `<editor>`
+
+## Private reminders
+
+- Never put real secrets in `CLAUDE.md`.
+- Keep this file out of git.
