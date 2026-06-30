@@ -19,6 +19,16 @@ Claude Code is powerful, but a blank repo often turns every session into the sam
 
 This template gives the project a small operating system: reusable memory, rules, commands, agents, hooks, and MCP examples.
 
+## Choose your path
+
+| If you want... | Use this |
+| --- | --- |
+| A free baseline to study and customize | This GitHub repo |
+| A ready-to-copy pack with more commands, agents, docs, and examples | [Claude Code Project Starter Kit — Starter ($9)](https://ko-fi.com/s/eca2427428) |
+| A quick overview before buying | [agentkitslab.com](https://agentkitslab.com) |
+
+The free version is enough to try the pattern. The paid ZIP is for people who want a more complete starting point without assembling every file themselves.
+
 ## What is included
 
 ```text
@@ -85,10 +95,10 @@ Read CLAUDE.md and all files under .claude/. Summarize the project rules, availa
 
 ## Upgrade path
 
-If the free template fits your workflow and you want the complete organized pack, the paid ZIP is available here:
+If the free template fits your workflow but you do not want to assemble the rest manually, the paid ZIP is available here:
 
-- Website: <https://agentkitslab.com>
-- Ko-fi: <https://ko-fi.com/s/eca2427428>
+- Buy the Starter ZIP: <https://ko-fi.com/s/eca2427428>
+- Product overview: <https://agentkitslab.com>
 
 The paid Starter package adds:
 
