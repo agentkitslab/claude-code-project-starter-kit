@@ -6,6 +6,19 @@ This repo is a practical baseline for developers who want Claude Code to follow 
 
 > Not affiliated with Anthropic. Claude Code access is not included.
 
+![Agent Kits Lab carousel: blank Claude Code projects become messy fast](docs/assets/agentkitslab-carousel-01.png)
+
+## Why this exists
+
+Claude Code is powerful, but a blank repo often turns every session into the same setup conversation again:
+
+- What is this project?
+- Which commands should be used?
+- What are the safety boundaries?
+- How should tests, reviews, docs, and releases work?
+
+This template gives the project a small operating system: reusable memory, rules, commands, agents, hooks, and MCP examples.
+
 ## What is included
 
 ```text
@@ -32,6 +45,8 @@ This repo is a practical baseline for developers who want Claude Code to follow 
         └── validate-bash.sh
 ```
 
+![Agent Kits Lab carousel: starter kit structure](docs/assets/agentkitslab-carousel-02.png)
+
 ## Quick start
 
 ```bash
@@ -55,19 +70,25 @@ claude
 Read CLAUDE.md and all files under .claude/. Summarize the project rules, available commands, agents, hooks, and safety boundaries before making changes.
 ```
 
-## Why use this
+## Free template vs. $9 Starter Kit
 
-Claude Code works best when your project gives it stable context and explicit boundaries.
+| Asset | Free GitHub template | $9 Starter Kit |
+| --- | --- | --- |
+| Project memory | Basic `CLAUDE.md` | Full operating guide plus local notes template |
+| Rules | Core examples | Modular rules for style, testing, API, security, and docs |
+| Commands | 2 examples | 5 repeatable workflows for review, planning, fixes, docs, release |
+| Agents | 2 examples | 5 specialized reviewers and QA helpers |
+| Hooks + MCP | Preview examples | Safer bash hooks, post-edit reminders, MCP config example |
+| Start guide | README | `START-HERE.md`, product README, structure diagram |
 
-This template helps with:
-
-- Consistent project instructions via `CLAUDE.md`
-- Modular rules for code, tests, security, API conventions, and docs
-- Review-first workflows through reusable commands
-- Safer autonomous coding via hook examples
-- Avoiding accidental exposure of secrets and local configuration
+![Agent Kits Lab carousel: free vs paid](docs/assets/agentkitslab-carousel-03.png)
 
 ## Upgrade path
+
+If the free template fits your workflow and you want the complete organized pack, the paid ZIP is available here:
+
+- Website: <https://agentkitslab.com>
+- Ko-fi: <https://ko-fi.com/s/eca2427428>
 
 The paid Starter package adds:
 
@@ -78,6 +99,15 @@ The paid Starter package adds:
 - Packaged ZIP for immediate reuse
 
 Suggested paid version: **Claude Code Project Starter Kit — Starter ($9)**.
+
+## How to use the pattern
+
+![Agent Kits Lab carousel: how to use it](docs/assets/agentkitslab-carousel-04.png)
+
+1. Copy the template into your project.
+2. Customize `CLAUDE.md` for your stack, commands, architecture, and constraints.
+3. Ask Claude Code to read the project system before coding.
+4. Iterate on commands, agents, hooks, and MCP config as your workflow matures.
 
 ## Security notes
 
