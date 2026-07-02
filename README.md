@@ -93,6 +93,13 @@ Read CLAUDE.md and all files under .claude/. Summarize the project rules, availa
 
 ![Agent Kits Lab carousel: free vs paid](docs/assets/agentkitslab-carousel-03.png)
 
+## FAQ
+
+Common questions about safety, customization, commercial use, and the paid Starter ZIP are covered here:
+
+- [FAQ](docs/faq.md)
+- [Upgrade to the Starter Package](docs/upgrade-to-starter.md)
+
 ## Upgrade path
 
 If the free template fits your workflow but you do not want to assemble the rest manually, the paid ZIP is available here:
